@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="360" height="369" alt="image_2024-01-20_211821140-removebg-preview" src="https://github.com/user-attachments/assets/eb97c502-3bd4-46e8-b5dd-4b4e788c6631" />
+
+
 
 <!--
 **s80r/s80r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
