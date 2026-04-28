@@ -1,4 +1,5 @@
-<img align="center" width="96" height="77" alt="tey" src="https://github.com/user-attachments/assets/8cc6bfb4-3468-4e46-944b-91a515dfebbe" />
+<p align="center"> <img width="96" height="77" alt="tey" src="https://github.com/user-attachments/assets/8cc6bfb4-3468-4e46-944b-91a515dfebbe" />
+<br>Welcome to my profile i guess...</p>
 
 
 
